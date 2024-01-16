@@ -9,7 +9,7 @@
 Clone Projek
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/rental-mobil-laravel.git nama_projek
+  git clone https://github.com/aziznurul/Rental-Mobil-Laravel.git nama_projek
 ```
 
 Masuk ke folder dengan perintah
