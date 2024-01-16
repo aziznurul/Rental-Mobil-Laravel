@@ -1,8 +1,6 @@
 aplikasi Retal Mobil Berbasis web menggunakan Framework Laravel 10
 
-## Screenshots
 
-![preview img](/preview.png)
 
 ## Donwload
 
