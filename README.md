@@ -1,4 +1,4 @@
-# Laravel 10 - Rental Mobil
+aplikasi Retal Mobil Berbasis web menggunakan Framework Laravel 10
 
 ## Screenshots
 
